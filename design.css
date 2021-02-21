@@ -1,0 +1,45 @@
+
+#welcomePage{
+    position:absolute;
+    top:30%;
+    left:10%;
+    
+}
+
+.selection{
+    position:absolute;
+    margin-left: 10%;
+       
+}
+
+
+.selection a{
+    text-decoration:none;
+    color:black;
+    font-size:xx-large
+}
+
+.selection #id1,#id2,#id3,#id4{
+    margin-left: 50px;
+}
+
+.boxed{
+    position:absolute;
+    border: 1px solid black ;
+    top:50%;
+    left:10%;
+}
+
+#paragraphDecocration{
+
+    position:absolute;;
+    margin: 20%;
+}
+
+.list{
+    position:absolute;
+ 
+    margin-top: 20%;
+    margin-left:20%;
+    margin-right:25%;
+}
