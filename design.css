@@ -36,10 +36,8 @@
     padding: 3%;
     border:5px solid black;
     margin: 5% 10% 10% 10%;
-    max-width: 420px;
-    min-width: 420px;
-    min-height: 370px;
-    max-height:370px;
+    max-width: 400px;
+    max-height:480px;
     vertical-align: middle;
     
 }
@@ -120,6 +118,9 @@
     margin-left: 5%;
     margin-right:5%;
     margin-bottom: 10%;
-
     
+}
+
+.details{
+    text-align: center;
 }
