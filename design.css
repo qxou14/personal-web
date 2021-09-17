@@ -32,7 +32,7 @@
 .boxed{
     display:inline-block;
     background: rgb(197, 195, 195);
-    cursor:pointer;
+    cursor:default;
     padding: 3%;
     border:5px solid black;
     margin: 5% 10% 10% 10%;
@@ -124,3 +124,8 @@
 .details{
     text-align: center;
 }
+
+a:link {
+    text-decoration: none;
+  }
+
