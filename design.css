@@ -35,11 +35,11 @@
     cursor:pointer;
     padding: 3%;
     border:5px solid black;
-    margin: 10%;
-    max-width: 400px;
-    min-width: 400px;
-    min-height: 300px;
-    max-height:300px;
+    margin: 5% 10% 10% 10%;
+    max-width: 420px;
+    min-width: 420px;
+    min-height: 370px;
+    max-height:370px;
     vertical-align: middle;
     
 }
